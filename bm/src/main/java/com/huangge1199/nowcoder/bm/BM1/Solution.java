@@ -5,7 +5,7 @@ import com.huangge1199.nowcoder.common.ListNode;
 /**
  * @author hyy
  * @Classname Solution
- * @Description TODO
+ * @Description 反转链表
  * @Date 2022/7/26 15:08
  */
 public class Solution {
