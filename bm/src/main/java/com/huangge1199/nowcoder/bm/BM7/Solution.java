@@ -5,7 +5,7 @@ import com.huangge1199.nowcoder.common.ListNode;
 /**
  * @author hyy
  * @Classname Solution
- * @Description TODO
+ * @Description BM7 链表中环的入口结点
  * @Date 2022/8/4 16:33
  */
 public class Solution {
